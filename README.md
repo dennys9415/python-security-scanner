@@ -4,7 +4,7 @@ A professional, extensible security vulnerability scanner for Python application
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![CI/CD](https://github.com/your-username/python-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/python-security-scanner/actions)
+[![CI/CD](https://github.com/dennys9415/python-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/dennys9415/python-security-scanner/actions)
 
 ## Structure
 
